@@ -1,0 +1,89 @@
+Problem: Write a program to claculate simple interest for the
+inputs principle amount =5000rs, rate of interest = 2.5%, time 
+period = 1 year
+
+Pseudo code
+-----------
+
+1) Store 5000 in p
+2) Store 2.5 in r
+3) Store 1 in t
+4) Store product of p,r,t in si
+5) store division of si by 100 in si
+6) print si
+
+============================================================
+
+Write a program to accept 2 numbers and swap them
+
+Pseudo code
+-----------
+
+1) Accept number in a
+2) Accept number in b
+3) Declare c
+4) Assign a to c
+5) Assign b to a
+6) Assign c to b
+7) Print a,b
+
+Pseudo code - without temp. variable
+------------------------------------
+
+1) Accept number in a
+2) Accept number in b
+3) Store the sum of a and b in b
+4) Store the difference of a and b in a
+5) Print a,b
+
+=====================================================================
+
+Write a program to 
+Accept a number and display wheather it is odd or even
+
+1) Store a number in a
+2) If the remainder of a,2 is 0
+3) print even
+4) Otherwise print odd
+
+========================================================================
+
+Write a program to 
+Find wheather a number is prime or not
+
+1) Store a number in n
+2) Assign loop to check if its prime
+3) Check if number is divisible by loop
+4) If divisible print no prime
+5) Otherwise print prime
+
+
+
+=============================================================
+
+Fibonnacci series upto 50
+
+1) Store 50 in variable n
+2) Store the initial two values in variables t1 and t2
+3) Take a temporary variable
+4) Assign loop to print the series
+5) Add t1 and t2 and store in temporary variable
+6) Print temporary variable
+7) Assign the incremented values to t1 and t2 again
+8) End loop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
